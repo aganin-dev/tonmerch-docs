@@ -31,6 +31,21 @@
       "pages": [
         "en/whitepaper"
       ]
+    },
+    {
+      "group": "Whitepaper",
+      "icon": "bookmark",
+      "pages": [
+        "ru/whitepaper"
+      ]
+    },
+    {
+      "group": "Legal",
+      "icon": "gavel",
+      "pages": [
+        "legal/terms",
+        "legal/policy"
+      ]
     }
   ]
 }
