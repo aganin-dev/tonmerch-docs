@@ -4,5 +4,6 @@
   "theme": "venus",
   "colors": {
     "primary": "#0000ff"
-  }
+  },
+  "favicon": "/images/logo-mini.svg",
 }
