@@ -6,7 +6,7 @@
     "primary": "#0000ff"
   },
   "favicon": "/images/logo-mini.svg",
-  "navigaion": [
+  "navigation": [
     {
       "group": "Whitepaper",
       "icon": "bookmark",
