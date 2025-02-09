@@ -3,8 +3,8 @@
   "name": "TON Merch Docs",
   "theme": "venus",
   "logo": {
-    "dark": "/images/logo-white.svg",
-    "light": "/images/logo.svg"
+    "dark": "/images/docs-white.svg",
+    "light": "/images/docs.svg"
   },
   "favicon": "/images/logo-mini.svg",
   "colors": {
