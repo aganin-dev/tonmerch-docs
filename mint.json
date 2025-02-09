@@ -5,5 +5,14 @@
   "colors": {
     "primary": "#0000ff"
   },
-  "favicon": "/images/logo-mini.svg"
+  "favicon": "/images/logo-mini.svg",
+  "navigaion": [
+    {
+      "group": "Whitepaper",
+      "icon": "bookmark",
+      "pages": [
+        "en/whitepaper"
+      ]
+    }
+  ]
 }
