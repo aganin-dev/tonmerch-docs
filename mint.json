@@ -1,7 +1,10 @@
 {
+  "$schema": "https://mintlify.com/schema.json",
   "name": "TON Merch Docs",
-  "favicon": "/favicon.ico",
-  "theme": {
+  "theme": "venus",
+  "colors": {
     "primary": "#0000ff"
-  }
+  },
+  "favicon": "/docs/assets/logo.png",
+  "navigation": "auto"
 }
