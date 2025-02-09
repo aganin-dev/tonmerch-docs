@@ -1,14 +1,14 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "TON Merch Docs",
-  "theme": "venus",
+  "theme": "mint",
   "logo": {
-    "dark": "/images/docs-white.svg",
-    "light": "/images/docs.svg"
+    "dark": "/images/logo-white.svg",
+    "light": "/images/logo.svg"
   },
   "favicon": "/images/logo-mini.svg",
   "colors": {
-    "primary": "#0000ff"
+    "primary": "#007AFF"
   },
   "tabs": [
     {
