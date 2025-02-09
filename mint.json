@@ -10,6 +10,20 @@
   "colors": {
     "primary": "#0000ff"
   },
+  "tabs": [
+    {
+      "name": "Documentation",
+      "url": "en"
+    },
+    {
+      "name": "RU Documentation",
+      "url": "ru"
+    },
+    {
+      "name": "Legal",
+      "url": "legal"
+    }
+  ],
   "navigation": [
     {
       "group": "Whitepaper",
