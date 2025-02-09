@@ -2,10 +2,14 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "TON Merch Docs",
   "theme": "venus",
+  "logo": {
+    "dark": "/images/logo-white.svg",
+    "light": "/images/logo.svg"
+  },
+  "favicon": "/images/logo-mini.svg",
   "colors": {
     "primary": "#0000ff"
   },
-  "favicon": "/images/logo-mini.svg",
   "navigation": [
     {
       "group": "Whitepaper",
