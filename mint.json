@@ -4,7 +4,5 @@
   "theme": "venus",
   "colors": {
     "primary": "#0000ff"
-  },
-  "favicon": "/docs/assets/logo.png",
-  "navigation": "auto"
+  }
 }
