@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "TON Merch Docs",
-  "theme": "venus",
+  "theme": "prism",
   "logo": {
     "dark": "/images/logo-white.svg",
     "light": "/images/logo.svg"
