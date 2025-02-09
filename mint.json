@@ -8,12 +8,12 @@
   },
   "favicon": "/images/logo-mini.svg",
   "colors": {
-    "primary": "##007AFF",
-    "light": "##007AFF",
-    "dark": "##007AFF",
+    "primary": "#007AFF",
+    "light": "#007AFF",
+    "dark": "#007AFF",
     "anchors": {
-      "from": "##007AFF",
-      "to": "##007AFF"
+      "from": "#007AFF",
+      "to": "#007AFF"
     }
   },
   "tabs": [
