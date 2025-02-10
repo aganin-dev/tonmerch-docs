@@ -32,14 +32,14 @@
   ],
   "navigation": [
     {
-      "group": "Whitepaper",
+      "group": "Core Documents",
       "icon": "bookmark",
       "pages": [
         "en/whitepaper"
       ]
     },
     {
-      "group": "Whitepaper",
+      "group": "Core Documents",
       "icon": "bookmark",
       "pages": [
         "ru/whitepaper"
