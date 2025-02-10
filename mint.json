@@ -35,14 +35,16 @@
       "group": "Core Documents",
       "icon": "bookmark",
       "pages": [
-        "en/whitepaper"
+        "en/whitepaper",
+        "en/roadmap"
       ]
     },
     {
       "group": "Core Documents",
       "icon": "bookmark",
       "pages": [
-        "ru/whitepaper"
+        "ru/whitepaper",
+        "ru/roadmap"
       ]
     },
     {
